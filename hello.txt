@@ -1,4 +1,4 @@
-hello git test 
+hello git 主分支
 hello git
 hello git
 hello git
@@ -11,4 +11,4 @@ hello git
 hello git
 hello git
 hello git
-hello git
+hello git master
